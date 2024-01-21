@@ -15,12 +15,13 @@
 ![Static Badge](https://img.shields.io/badge/Microsoft%20Azure-%230078D4?style=for-the-badge&logo=Microsoft%20Azure)
 <br>
 ![Static Badge](https://img.shields.io/badge/Microservices-%238BC34A?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/REST-%23EF6C00?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Design%20Patterns-%23283FEB?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/OOP-%23793F8B?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/SOLID%20Principles-%233A3A30?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Clean%20Architecture-%23513D6C?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Domain%20Driven%20Design-%2301ABCC?style=for-the-badge)
+<br>
+![Static Badge](https://img.shields.io/badge/Design%20Patterns-%23283FEB?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/REST-%23EF6C00?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/OOP-%23793F8B?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/SOLID%20Principles-%233A3A30?style=for-the-badge)
 <br>
 ![Static Badge](https://img.shields.io/badge/Relational%20Databases-%23741800?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)
