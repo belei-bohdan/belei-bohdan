@@ -12,7 +12,7 @@
 ![Static Badge](https://img.shields.io/badge/MVC-%23FF7025?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/WEB%20API-%23204ECF?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/WEB%20Services-%230F256E?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Microsoft%20Azure-%230078D4?style=for-the-badge&logo=Microsoft%20Azure)
+![Static Badge](https://img.shields.io/badge/Azure-%230078D4?style=for-the-badge&logo=Microsoft%20Azure)
 <br />
 ![Static Badge](https://img.shields.io/badge/Microservices-%238BC34A?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Clean%20Architecture-%23513D6C?style=for-the-badge)
