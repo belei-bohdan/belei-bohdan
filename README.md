@@ -47,6 +47,7 @@
 ![Static Badge](https://img.shields.io/badge/GitHub%20Actions-%232088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![Static Badge](https://img.shields.io/badge/GitLab-%23FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Bitbucket-%230052CC?style=for-the-badge&logo=Bitbucket)
 <br />
 <br />
